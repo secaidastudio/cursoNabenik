@@ -24,5 +24,8 @@ public class Principal{
 			System.out.println("NUmero impar");
 		}
 
+				System.out.println("rama original");
+
+
 	}
 }
