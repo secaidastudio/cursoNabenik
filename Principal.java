@@ -24,7 +24,7 @@ public class Principal{
 			System.out.println("NUmero impar");
 		}
 
-				System.out.println("rama original");
+				System.out.println("ahora estoy en la nueva_rama");
 
 
 	}
