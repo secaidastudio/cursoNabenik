@@ -27,5 +27,12 @@ public class Principal{
 
 		System.out.println("Hola mundo!!!!");
 
+		Principal coca = new Principal();
+		coca.prueba();
+
+	}
+
+	public static void prueba(){
+		System.out.println("Hola todos1!!!!");
 	}
 }
